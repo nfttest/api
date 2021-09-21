@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Team", 
-      "value": "Man United"
+      "value": "Manchester United"
     },
     {
       "trait_type": "Competition", 
@@ -75,6 +75,36 @@
     {
       "trait_type": "Footwear", 
       "value": "Predator Freak.1 Low"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Speed", 
+      "value": 79,
+      "max_value": 100
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Stamina", 
+      "value": 75,
+      "max_value": 100
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Strength", 
+      "value": 89,
+      "max_value": 100
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Control", 
+      "value": 90,
+      "max_value": 100
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Control", 
+      "value": 90,
+      "max_value": 100
     }
   ] 
 }
