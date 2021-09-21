@@ -5,6 +5,11 @@
 "attributes": [
     {
       "display_type": "date",
+      "trait_type": "Competition Start", 
+      "value": 1628809200
+    },
+    {
+      "display_type": "date",
       "trait_type": "Date of Birth", 
       "value": 732153600
     },
@@ -21,7 +26,7 @@
     {
       "display_type": "boost_percentage", 
       "trait_type": "Skill Moves", 
-      "value": 80
+      "value": 100
     },
     {
       "trait_type": "Name", 
