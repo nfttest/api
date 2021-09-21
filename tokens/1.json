@@ -18,6 +18,10 @@
       "value": "Paulo Bogba"
     },
     {
+      "trait_type": "Nation", 
+      "value": "France"
+    },
+    {
       "trait_type": "Type", 
       "value": "Club"
     },
