@@ -4,11 +4,6 @@
 "image": "https://nfttest.github.io/api/assets/1.jpg", 
 "attributes": [
     {
-      "display_type": "number", 
-      "trait_type": "Height (cm)", 
-      "value": 191
-    }, 
-    {
       "display_type": "date",
       "trait_type": "Date of Birth", 
       "value": 732153600
@@ -24,6 +19,10 @@
     },
     {
       "trait_type": "Type", 
+      "value": "Club"
+    },
+    {
+      "trait_type": "Role", 
       "value": "Player"
     },
     {
@@ -55,7 +54,7 @@
       "value": "LM"
     },
     {
-      "trait_type": "Xtras", 
+      "trait_type": "Footwear", 
       "value": "Predator Freak.1 Low"
     }
   ] 
