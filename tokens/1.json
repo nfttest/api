@@ -12,7 +12,17 @@
       "trait_type": "Rating", 
       "value": 86,
       "max_value": 100
-    }, 
+    },
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Week Foot", 
+      "value": 80
+    },
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Skill Moves", 
+      "value": 100
+    },
     {
       "trait_type": "Name", 
       "value": "Paulo Bogba"
