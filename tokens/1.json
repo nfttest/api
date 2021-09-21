@@ -1,13 +1,61 @@
 {
-"name": "SquidBoy #1",
-"description": "Squid kid", 
-"image": "https://nfttest.github.io/api/assets/1.png", 
+"name": "Bogba 2021/22 #1",
+"description": "Paulo Bogba CryptoTest player NFT. Moonchester United home kit 2021/22", 
+"image": "https://nfttest.github.io/api/assets/1.jpg", 
 "attributes": [
     {
-      "value": "Happy"
+      "trait_type": "Rating", 
+      "value": 86,
+      "max_value": 100
+    }, 
+    {
+      "trait_type": "Height (cm)", 
+      "value": 191
+    }, 
+    {
+      "display_type": "date",
+      "trait_type": "Date of Birth", 
+      "value": 1632243340
     },
     {
-      "value": "Sad"
+      "trait_type": "Name", 
+      "value": "Paulo Bogba"
+    },
+    {
+      "trait_type": "Type", 
+      "value": "Player"
+    },
+    {
+      "trait_type": "Team", 
+      "value": "Moonchester United"
+    },
+    {
+      "trait_type": "Competition", 
+      "value": "Premier League"
+    },
+    {
+      "trait_type": "Season", 
+      "value": "2021/22"
+    },
+    {
+      "trait_type": "Kit", 
+      "value": "Home"
+    },
+    {
+      "trait_type": "Boots", 
+      "value": "Adidas Predator Freak.1 Low"
+    },
+    {
+      "trait_type": "Preferred Foot", 
+      "value": "Right"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "CM"
+    }, 
+    {
+      "trait_type": "Position", 
+      "value": "LM"
     }
   ] 
 }
