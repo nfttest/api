@@ -18,7 +18,7 @@
       "value": "Paulo Bogba"
     },
     {
-      "trait_type": "Nation", 
+      "trait_type": "Nationality", 
       "value": "France"
     },
     {
@@ -46,7 +46,7 @@
       "value": "Home"
     },
     {
-      "trait_type": "Foot", 
+      "trait_type": "Preferred Foot ", 
       "value": "Right"
     }, 
     {
