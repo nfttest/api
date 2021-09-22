@@ -1,6 +1,6 @@
 {
 "name": "Bogba #1",
-"description": "Bogba #1 is a unique hand-drawn digital artwork in the CryptoTest NFT collection, it depicts Paulo Bogba in a Manchester United home kit for the 2021-2022 season.", 
+"description": "Hi, my name is Paul and I love football and scoring goals. I was the first player to have a Twitter hastag emoji. I love eating pasta with my good friend Mario Ballotelli.", 
 "image": "https://nfttest.github.io/api/assets/1.jpg", 
 "attributes": [
     {
@@ -75,36 +75,6 @@
     {
       "trait_type": "Footwear", 
       "value": "Predator Freak.1 Low"
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Speed", 
-      "value": 79,
-      "max_value": 100
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Stamina", 
-      "value": 75,
-      "max_value": 100
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Strength", 
-      "value": 89,
-      "max_value": 100
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Control", 
-      "value": 90,
-      "max_value": 100
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Control", 
-      "value": 90,
-      "max_value": 100
     }
   ] 
 }
