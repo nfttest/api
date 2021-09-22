@@ -4,16 +4,6 @@
 "image": "https://nfttest.github.io/api/assets/1.jpg", 
 "attributes": [
     {
-      "display_type": "date",
-      "trait_type": "Competition Start", 
-      "value": 1628895600
-    },
-    {
-      "display_type": "date",
-      "trait_type": "Date of Birth", 
-      "value": 732153600
-    },
-    {
       "trait_type": "Rating", 
       "value": 86,
       "max_value": 100
